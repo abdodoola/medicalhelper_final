@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "495594048433",
+    "firebase_url": "https://medical-helper-4f925.firebaseio.com",
+    "project_id": "medical-helper-4f925",
+    "storage_bucket": "medical-helper-4f925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495594048433:android:53a29f5b8a3c7ae3780b90",
+        "android_client_info": {
+          "package_name": "com.abdodoola.medicalhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495594048433-djrldgct9gt0i9uq34vh97ml39v5lusj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1bZlO2gLaZVyLZr1CIfWO0E6Ty76L1BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495594048433-djrldgct9gt0i9uq34vh97ml39v5lusj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
